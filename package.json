@@ -1,0 +1,25 @@
+{
+  "name": "arthaverp",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000-\u0000s\u0000u\u0000i\u0000t\u0000e\u0000-\u0000L\u0000a\u0000n\u0000d\u0000i\u0000n\u0000g\u0000\r\u0000 \u0000",
+  "main": "scripts.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivamDroid022/a-suite-Landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ShivamDroid022/a-suite-Landing/issues"
+  },
+  "homepage": "https://github.com/ShivamDroid022/a-suite-Landing#readme",
+  "devDependencies": {
+    "vite": "^8.0.16"
+  }
+}
